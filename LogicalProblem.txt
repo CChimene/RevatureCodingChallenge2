@@ -1,0 +1,15 @@
+a) If the last day is a Wednesday there are 4 possibilities:
+28 days in the month (February): the 14th is a Wednesday
+29 days in the month (February in a leap year): the 14th is a Tuesday
+30 days in the month: the 14th is a Monday
+31 days in the month: the 14th is a Sunday
+
+b) If the 17th is a Saturday, the 14th will always be a Wednesday
+
+c) So long as II is true b) will always be the answer
+
+d) II is always sufficient. If II is false, then the 14th is simply not on
+a Wednesday regardless of whether I is true. I being true or false doesn't 
+narrow it down much see a)
+
+e) see c)
